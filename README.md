@@ -14,7 +14,7 @@ Now let's take a random piece of text and convert every letter of the text into 
 U would have something like '341213267', (well, just reverse it, duh!) I know, but first another problem:
 
 Remember how the alphabet has more than 10 letters? 😮
-This means that something like 10 11 12 could be interpreted as 1 0 1 1 1 2 wich only used the first 3 letters of the alphabet instead of the 10 till 12
+This means that something like 10 11 12 could be interpreted as 1 0 1 1 1 2 wich only used the first 2 letters of the alphabet instead of the 10 till 12
 To solve this problem we could start at higher values such as 100, now A starts at 100 and B at 101, great! now we need to add some sort of Encryption Key
 Well, why dont we just Encrypt the key and add it to the already Encrypted text? Now we have a large number that fails to Decrypt, so to Decrypt it we just remove the (Encrypted) Key from the number and Decrypt it.
 
