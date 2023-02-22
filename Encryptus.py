@@ -1,4 +1,3 @@
-from collections import deque
 import string
 
 # Encryptus v1.0.0
