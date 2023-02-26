@@ -22,3 +22,5 @@ One problem i have been trying to figure out is Bruteforce Cracking, where you j
 So i would recommend atleast 10-20 characters, the more the better but also the longer the Encrypted number will be.
 
 Also, if this code or idea originates from any other program or library please make tell me, i dont want to copy other's work. 🫤
+
+Fun fact: i designed this after my math exam in school, i had 1 hour left and i was bored. (so u might say school is useful after all?)
